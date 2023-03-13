@@ -36,5 +36,5 @@ NOTE: git status    ->   This is our friend. This can be used anytime to see the
         *git push
 NOTE: PULL BEFORE PUSH
         *git pull -> git add . -> git commit -m "message" -> git push
-
+https://github.com/mightyforever74/first_git_project.git
 
